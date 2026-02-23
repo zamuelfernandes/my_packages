@@ -14,7 +14,7 @@ Add the following to your main project:
 dependencies:
   my_normalization_package:
     git:
-      url: https://github.com/zamuelfernandes/meus_pacotes_dart.git
+      url: https://github.com/zamuelfernandes/my_dart_packages.git
       path: packages/my_normalization_package
       ref: main
 ```
